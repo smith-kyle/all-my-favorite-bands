@@ -69,6 +69,6 @@ Global
 		{DB9AD24C-AC00-423F-BC42-C73BFBA6656C}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Android\BandName.Android.csproj
+		StartupItem = iOS\BandName.iOS.csproj
 	EndGlobalSection
 EndGlobal

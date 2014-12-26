@@ -12,7 +12,7 @@ namespace BandName
 	public class WebPost
 	{
 		/* Password removed from open source version*/
-		private string password = "";
+		private string password = "iamalexbates";
 
 		// Get Band List
 		public async Task<ObservableCollection<Band>> getBandList(){
